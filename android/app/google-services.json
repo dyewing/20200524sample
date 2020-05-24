@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438367981594",
+    "firebase_url": "https://sample1-app-f2b41.firebaseio.com",
+    "project_id": "sample1-app-f2b41",
+    "storage_bucket": "sample1-app-f2b41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438367981594:android:f8597fcbdf31d50a3781a3",
+        "android_client_info": {
+          "package_name": "dyewing.sample1app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438367981594-u9vt5mo1pbuui8h8f7ju7ukq6afrr51f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_69wTpRKJw6eenuPdQVjnt2cUtI78Lvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438367981594-u9vt5mo1pbuui8h8f7ju7ukq6afrr51f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
